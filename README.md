@@ -22,5 +22,5 @@ El análisis mostro los siguientes hallazgos:
 - Factores Demográficos y de Contrato son Cruciales
 - Compromiso y Actividad son Predictores Clave
 - Programas de Lealtad y Referencia Funcionan
-- Segmentos de Churn Claramente Definidos |
+- Segmentos de Churn Claramente Definidos
 
